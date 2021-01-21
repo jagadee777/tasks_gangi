@@ -1,0 +1,71 @@
+
+18/01/2021(morning)
+==================
+week-6 lecture 6-python
+======================
+Python Basics
+Examples
+Input
+conditions
+Lists,range,tuple,dict,set
+strings
+Command-line arguments
+Algorithms
+Files
+
+
+18/01/2021(afternoon) and 19/012021
+==================================
+week-7 lecture 7-SQL
+====================
+database
+about csv file 
+reading data from csv file  by using reader() and DictReader()
+DictReader()-which creates a dictionary from each row allowing us to access each column by its name
+lamda functions- a function without name but takes in some arguments and returns a value immediatly
+  
+Realtional databases
+SQL-stuctured qurey language
+about SQLite
+realational database supported operations-CREATE, READ, UPDATE, DELETE
+SQL commands and functions
+
+
+20/012021 and 21/01/2021
+=========================
+week-8 lecture 8 HTML,CSS,Javascript
+====================================
+About
+------
+internet
+ip and ip address
+DNS domain name system
+URL-uniform resource locater
+
+curl- cmd command used to connect the URL
+
+web development
+---------------
+about
+-----
+HTTP and its commands
+	1.GET
+	2.POST
+
+URL or web address
+HTTPS-Status codes
+
+HTML-
+----
+it tells the browser how to display pages by using tags and attributes.
+HTML-hyper text markup language
+tags and attributes
+
+CSS
+----
+CSS cascading style sheet 
+it is a another language that tells browser how to display tags on a page.
+
+javascript
+----------
+code that can run in users’ browsers, or on the client
